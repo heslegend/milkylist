@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">milkylist</string>
+    <string name="what_to_shop">What to shop..</string>
+    <string name="facebook_application_id" translatable="false">492180451520087</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb492180451520087</string>
+    <string name="delete_checked_items">Delete Checked Items</string>
+    <string name="clear_list">Clear List</string>
+    <string name="logout">Logout</string>
+    <string name="list_options">List Options</string>
+
+</resources>

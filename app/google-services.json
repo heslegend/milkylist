@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308388659577",
+    "firebase_url": "https://milkylist.firebaseio.com",
+    "project_id": "milkylist",
+    "storage_bucket": "milkylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308388659577:android:b41ae854dcdbe758",
+        "android_client_info": {
+          "package_name": "com.lazyambitions.milkylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308388659577-f8ahf7c029omssuogr9tbjrsel9lbgj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5LvRHNlHSsKQdhA_Qi2jbo9yzH58Rz3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308388659577-f8ahf7c029omssuogr9tbjrsel9lbgj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
