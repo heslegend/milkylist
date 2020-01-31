@@ -14,7 +14,8 @@ class MainViewModel : ViewModel() {
     private val database = FirebaseDatabase.getInstance()
     private val firebaseAuth = FirebaseAuth.getInstance()
     private val myDatabase: DatabaseReference = database.getReference("server/saving-data/milkylist")
-    private val userReference = myDatabase.child("users/YGFAEH7exRgWoRfM4lROKHfMW1O2")
+// attention: need to manually set user reference atm
+    private val userReference = myDatabase.child("users/myUserReference")
     private val listReference = userReference.child("list")
 
 
